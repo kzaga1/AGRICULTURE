@@ -1,7 +1,7 @@
 # Capstone Project: Global Primary School Enrollment (2000–2020)
 
 **Course**: INSY 8413 – Introduction to Big Data Analytics  
-**Student**: Clever Karenzi  
+**Student**: Prince Karenzi  
 **Instructor**: Eric Maniraguha
 
 ## 🗂️ Project Description
